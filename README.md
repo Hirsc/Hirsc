@@ -2,7 +2,7 @@
 
 🌱 I think everyone should read more books. They are a shortcut to experience
 
-## What to read faster? [CLICK HERE](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
+## What to read faster? [CLICK HERE](https://www.youtube.com/watch?v=KJ2Lvi9kG2Q)
 
 # Currently Reading
 
