@@ -2,6 +2,8 @@
 
 🌱 I think everyone should read more books. They are a shortcut to experience
 
+📅 Every thursday remote [meetup](https://www.meetup.com/software-engineering-bookclub/?eventOrigin=home_groups_you_organize) to read books 
+
 ## What to read faster? [CLICK HERE](https://www.youtube.com/watch?v=KJ2Lvi9kG2Q)
 
 # Currently Reading
