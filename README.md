@@ -8,14 +8,14 @@
 
 # Currently Reading
 
-* Zombie Scrum Survival Guide
 * Fundamentals of software architectur
-* The pragmatic programmer: Your journey to mastery, 20th Anniversary Edition
+* Extreme Programming
 
 # Done Reading
 
 ## Software Engeneering
 
+* The pragmatic programmer: Your journey to mastery, 20th Anniversary Edition
 * Software Architect Elevator
 * Clean Code
 * Clean Architecture
@@ -47,6 +47,7 @@
 
 ## Agile
 
+* Zombie Scrum Survival Guide
 * Vom Mythos des Mann-Monats
 * Peopleware
 * Clean Agile
